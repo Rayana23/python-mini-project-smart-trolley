@@ -1,0 +1,28 @@
+=========================
+SMART TROLLEY RECEIPT
+=========================
+
+Item: Milk
+Price: RM8.5
+Quantity: 2
+Subtotal: RM17.0
+
+Item: Bread
+Price: RM4.0
+Quantity: 1
+Subtotal: RM4.0
+
+Item: Eggs
+Price: RM12.0
+Quantity: 1
+Subtotal: RM12.0
+
+Item: Salmon
+Price: RM50.0
+Quantity: 2
+Subtotal: RM100.0
+
+Total Bill: RM133.0
+Discount: RM13.3
+Amount Payable: RM119.7
+Thank you for shopping!
